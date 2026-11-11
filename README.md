@@ -3,7 +3,7 @@
 
 I'm a mobile app developer, full stack engineer, and UI/UX designer passionate about creating modern, scalable, and user-friendly products for iOS, Android, and the web.
 
-I enjoy transforming ideas into smooth mobile experiences, building reusable architectures, and solving real-world engineering challenges — from the first wireframe to the UI, the APIs, and the database behind it.
+I enjoy transforming ideas into smooth mobile experiences, building reusable architectures, and solving real-world engineering challenges from the first wireframe to the UI, the APIs, and the database behind it.
 
 📱 Developing cross-platform applications with React Native & Flutter
 🍎 Building native iOS apps with Swift and Apple technologies
